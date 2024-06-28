@@ -207,7 +207,7 @@ img {
 }
 
 .container {
-    background-image: url("./media/background-image.jpeg");
+    background-image:  url("/resources/media/background-image.jpeg");
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
